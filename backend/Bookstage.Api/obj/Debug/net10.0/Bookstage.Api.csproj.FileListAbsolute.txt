@@ -1,0 +1,641 @@
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.csproj.AssemblyReference.cache
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.AssemblyInfoInputs.cache
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.AssemblyInfo.cs
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.csproj.CoreCompileInputs.cache
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\appsettings.json
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.staticwebassets.endpoints.json
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.exe
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.deps.json
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.runtimeconfig.json
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.pdb
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Azure.Core.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Azure.Identity.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Humanizer.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.ClientModel.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.CodeDom.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\scopedcss\bundle\Bookstage.Api.styles.css
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstag.46AC358F.Up2Date
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.dll
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\refint\Bookstage.Api.dll
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.pdb
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.genruntimeconfig.cache
+D:\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\ref\Bookstage.Api.dll
+D:\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.staticwebassets.runtime.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\appsettings.Development.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\appsettings.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.staticwebassets.endpoints.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.staticwebassets.runtime.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.exe
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.deps.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.runtimeconfig.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.pdb
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Azure.Core.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Azure.Identity.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Humanizer.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.ClientModel.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.CodeDom.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.csproj.AssemblyReference.cache
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.AssemblyInfoInputs.cache
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.AssemblyInfo.cs
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.csproj.CoreCompileInputs.cache
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\scopedcss\bundle\Bookstage.Api.styles.css
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.development.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\swae.build.ex.cache
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstag.46AC358F.Up2Date
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\refint\Bookstage.Api.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.pdb
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.genruntimeconfig.cache
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\ref\Bookstage.Api.dll
+D:\Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.sourcelink.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.staticwebassets.endpoints.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\appsettings.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.staticwebassets.runtime.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.exe
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.deps.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.runtimeconfig.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.pdb
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Humanizer.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.csproj.AssemblyReference.cache
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.AssemblyInfoInputs.cache
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.AssemblyInfo.cs
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.csproj.CoreCompileInputs.cache
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\scopedcss\bundle\Bookstage.Api.styles.css
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstag.46AC358F.Up2Date
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\refint\Bookstage.Api.dll
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.pdb
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.genruntimeconfig.cache
+C:\Users\bhara\Desktop\DOTNET PRO\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\ref\Bookstage.Api.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\appsettings.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.staticwebassets.endpoints.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.staticwebassets.runtime.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.exe
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.deps.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.runtimeconfig.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Bookstage.Api.pdb
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.csproj.AssemblyReference.cache
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.AssemblyInfoInputs.cache
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.AssemblyInfo.cs
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\scopedcss\bundle\Bookstage.Api.styles.css
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstag.46AC358F.Up2Date
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\refint\Bookstage.Api.dll
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.pdb
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\Bookstage.Api.genruntimeconfig.cache
+C:\Users\Kuldip Shiyal\OneDrive\Desktop\.net Bookstage\Bookstage\backend\Bookstage.Api\obj\Debug\net10.0\ref\Bookstage.Api.dll
